@@ -128,13 +128,30 @@ header img{
     /* border: 1px solid black; */
 /* } */
 .container{
-    border: 2px solid peru;
+    /* border: 2px solid peru; */
+    text-align: center;
+    padding: 10px 10px;
+    
     
 }
 .container .card{
     margin: 5px 5px;
     background-color: aquamarine;
     border: none;
+
+}
+
+.container img {
+    
+    width: 100%;
+}
+
+.work {
+    background-color:rgb(55, 101, 129) 
+}
+
+.work h2{
+    color: antiquewhite;
 }
 
 
