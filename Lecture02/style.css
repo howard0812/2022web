@@ -1,32 +1,42 @@
 .container{
     /* border: 2px solid peru; */
-    text-align: center;
-    padding: 10px 10px;
+    /* text-align: center; */
+    /* padding: 10px 10px; */
+    
     
     
 }
 .container .card{
     margin: 5px 5px;
     background-color: aquamarine;
-    border: none;
+    /* border: none; */
 
-}
+} 
 
-.container img {
+.work .container img {
+    /* border: 2px solid paleturquoise; */
+    /* padding: 10px 10px; */
+    margin: 5px 5px;
+    /* width: 100%; */
     
-    width: 100%;
+    
 }
 
 .work {
-    background-color:rgb(55, 101, 129) 
+    background-color:rgb(55, 101, 129)
+     
+}
+
+.work .relative-btn a{
+    text-decoration: none;
 }
 
 .work h2{
-    color: antiquewhite;
+    /* color: antiquewhite; */
 }
 
 body a{
-    text-decoration: none;
+    
 }
 
 .relative-btn {
